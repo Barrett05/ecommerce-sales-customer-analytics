@@ -33,7 +33,7 @@ This project analyses a simulated e-commerce dataset using Google BigQuery (SQL)
 
 ## Interactive Dashboard
 
-[View the Looker Studio Dashboard](PASTE_YOUR_DASHBOARD_LINK_HERE)
+[View the Looker Studio Dashboard](https://datastudio.google.com/u/0/reporting/450fa83d-de55-416c-8f94-b5616c40b607/page/p6fBG)
 
 ## Data Source
 
